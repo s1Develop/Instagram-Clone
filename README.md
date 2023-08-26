@@ -35,3 +35,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+# Clerk (for registration): allows us to instantaneously spin up powerful authetication features such as login and registration using email password and multiple social sign-in, SMS verification, entire profile management.
+# React: managing form with react hook form, create reusable components, solid application architecture
+# Next.js 13 with server-side rendering
+# Optimal UI for all the devices
+# MongoDB: handling complex schemas and data population that goes to multiple levels deep
+# tailwindcss: create layouts 
+# shadcn/ui: upgrade CSS by using it 
+# Zod: data validation
+# Uploadthing: file uploading with it
+# Web Hook: real-time event listening
+# understand how middleware, API actions, and authorization works 
+# explore and integrate new next.js layout route group
